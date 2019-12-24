@@ -78,6 +78,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Anomaly Detection in Computer System
 by Intellectual Analysis of System Journals (RUS)](http://cyberrus.com/wp-content/uploads/2018/06/33-43-226-18_4.-Sheluhin.pdf)
 * [Application of Recurrent Neural Networks for User Verification based on Keystroke Dynamics](https://pdfs.semanticscholar.org/35dd/ae04e4289be52a46001420e9d82928d12076.pdf)
+* [A Data Clustering Algorithm for Mining Patterns From Event Logs](http://www.cs.uku.fi/research/publications/reports/A-2003-1/page152.pdf)
 
 ## [↑](#table-of-contents) Books
 
