@@ -1,4 +1,4 @@
-# ML_CyberSecurity
+# ML CyberSecurity
 
 [<img src="./logo.jpg" align="right" width="100">](https://github.com/roshanlam/ML_CyberSecurity)
 A curated list of tools and resources related to the use of machine learning for cyber security.
