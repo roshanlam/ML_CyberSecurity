@@ -20,7 +20,8 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 ## [↑](#table-of-contents) Datasets
 
 * [Samples of Security Related Data](http://www.secrepo.com/)
-* [DARPA Intrusion Detection Data Sets](https://www.ll.mit.edu/ideval/data/)
+* [2000 Darpa Intrusion Detection Scenario Specific Datasets](https://www.ll.mit.edu/r-d/datasets/2000-darpa-intrusion-detection-scenario-specific-datasets)
+* [1999 Darpa Intrusion Detection Evaluation DataSet](https://www.ll.mit.edu/r-d/datasets/1999-darpa-intrusion-detection-evaluation-dataset)
 * [Stratosphere IPS Data Sets](https://stratosphereips.org/category/dataset.html)
 * [Open Data Sets](http://csr.lanl.gov/data/)
 * [Data Capture from National Security Agency](http://www.westpoint.edu/crc/SitePages/DataSets.aspx)
